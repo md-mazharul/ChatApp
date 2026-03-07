@@ -1,0 +1,5 @@
+Flask
+Flask-SocketIO
+Flask-Cors
+mysql-connector-python
+python-socketio
